@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/robot-cards/static/css/main.d398a6a8.chunk.css",
+    "main.js": "/robot-cards/static/js/main.466c1f4a.chunk.js",
+    "main.js.map": "/robot-cards/static/js/main.466c1f4a.chunk.js.map",
+    "runtime~main.js": "/robot-cards/static/js/runtime~main.a9db020e.js",
+    "runtime~main.js.map": "/robot-cards/static/js/runtime~main.a9db020e.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/robot-cards/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/robot-cards/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/robot-cards/index.html",
+    "precache-manifest.a07d28b3591c569215e40cb4b35495af.js": "/robot-cards/precache-manifest.a07d28b3591c569215e40cb4b35495af.js",
+    "service-worker.js": "/robot-cards/service-worker.js",
+    "static/css/main.d398a6a8.chunk.css.map": "/robot-cards/static/css/main.d398a6a8.chunk.css.map"
+  }
+}
